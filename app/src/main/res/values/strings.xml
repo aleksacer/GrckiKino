@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">GrckiKino</string>
+    <string name="game_name">Grcki kino 20/80</string>
+    <string name="time_of_game">Vreme izvlacenja</string>
+    <string name="time_for_playing">Preostalo za uplatu</string>
+    <string name="time_of_game_expanded">Vreme izvlacenja: %1$s | Kolo: %2$d</string>
+    <string name="number_of_selected_balls">Broj kuglica: %1$d</string>
+    <string name="time_until_draw">Vreme do izvlacenja: %1$s</string>
+    <string name="choose_random">Slucajni odabir</string>
+    <string name="game_expired">Igra je istekla</string>
+    <string name="ok">OK</string>
+    <string name="b_k">B.K.</string>
+    <string name="bk_1">1</string>
+    <string name="bk_2">2</string>
+    <string name="bk_3">3</string>
+    <string name="bk_4">4</string>
+    <string name="bk_5">5</string>
+    <string name="bk_6">6</string>
+    <string name="bk_7">7</string>
+    <string name="quote">Kvota</string>
+    <string name="q_1">3.75</string>
+    <string name="q_2">14</string>
+    <string name="q_3">65</string>
+    <string name="q_4">275</string>
+    <string name="q_5">1350</string>
+    <string name="q_6">6500</string>
+    <string name="q_7">25000</string>
+</resources>
